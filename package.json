@@ -1,0 +1,28 @@
+{
+  "name": "ayeshapis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "it": "^1.1.1",
+    "multer": "^1.4.5-lts.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danish786313/multiple_image_api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Danish786313/multiple_image_api/issues"
+  },
+  "homepage": "https://github.com/Danish786313/multiple_image_api#readme"
+}
